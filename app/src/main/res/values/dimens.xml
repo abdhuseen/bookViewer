@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<dimen name="edit_text_margin">15dp</dimen>
+    <dimen name="text_size">14sp</dimen>
+    <dimen name="card_radius">15dp</dimen>
+    <dimen name="card_margin">50dp</dimen>
+    <dimen name="btn_margin_left">20dp</dimen>
+    <dimen name="btn_margin_top">10dp</dimen>
+    <dimen name="btnlogin_margin_left">45dp</dimen>
+    <dimen name="padding">25dp</dimen>
+</resources>

@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/novels"
+        android:enabled="true"
+        android:title="@string/novels_text"/>
+    <item
+        android:id="@+id/technology"
+        android:enabled="true"
+        android:title="@string/technology_text"/>
+    <item
+        android:id="@+id/self_development"
+        android:enabled="true"
+        android:title="@string/self_development"/>
+</menu>
